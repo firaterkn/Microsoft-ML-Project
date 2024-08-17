@@ -32,7 +32,7 @@ for i in range(60, len(train_data)):
 
 x_train, y_train = np.array(x_train), np.array(y_train)
 
-# Convert data for LSTM
+# Convert data for GRU
 x_train = np.reshape(x_train, (x_train.shape[0], x_train.shape[1], 1))
 
 # Identify the GRU model
