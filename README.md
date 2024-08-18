@@ -84,8 +84,10 @@ for i in range(60, len(train_data)):
 
 # Results 
 
-![LSTM]()
-   
+![LSTM](https://github.com/firaterkn/Microsoft-ML-Project/blob/main/LSTM.PNG)
+
+
+![GRU](https://github.com/firaterkn/Microsoft-ML-Project/blob/main/LSTM.PNG)
 
 
 
